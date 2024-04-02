@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24657990656",
+    "project_id": "fir-app2-c41a9",
+    "storage_bucket": "fir-app2-c41a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24657990656:android:18025bc7be9bafb8ea74e5",
+        "android_client_info": {
+          "package_name": "com.nike_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaqgF7l747UMMuTP5qmObtiiSRVfI48ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
